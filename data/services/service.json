@@ -1,0 +1,47 @@
+{
+    "servicio1": {
+        "title": "Enderazo de Pintura",
+        "description": "Descripción detallada del servicio de enderazo de pintura.",
+        "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio2": {
+        "title": "Vinillos",
+        "description": "Descripción detallada del servicio de vinillos.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio3": {
+        "title": "Servicio 3",
+        "description": "Descripción detallada del servicio 3.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio4": {
+        "title": "Servicio 4",
+        "description": "Descripción detallada del servicio 4.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio5": {
+        "title": "Servicio 5",
+        "description": "Descripción detallada del servicio 5.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio6": {
+        "title": "Servicio 6",
+        "description": "Descripción detallada del servicio 6.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio7": {
+        "title": "Servicio 7",
+        "description": "Descripción detallada del servicio 7.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio8": {
+        "title": "Servicio 8",
+        "description": "Descripción detallada del servicio 8.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    },
+    "servicio9": {
+        "title": "Servicio 9",
+        "description": "Descripción detallada del servicio 9.",
+          "images": ["images/6c.jpg", "images/6c.jpg", "images/6c.jpg"]
+    }
+}
